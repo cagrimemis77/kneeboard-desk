@@ -1,0 +1,10 @@
+{
+  "short_name": "Kneeboard",
+  "name": "Dijital Kneeboard & Simülasyon Brifing Masası",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0B0F19",
+  "background_color": "#0B0F19",
+  "lang": "tr"
+}
